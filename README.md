@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sachin Verma</h1>
+<h3 align="center">A rookie named GuoDaXia</h3>
+<!-- <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3> -->
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
 <!--
 **Down-zhi/Down-zhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
